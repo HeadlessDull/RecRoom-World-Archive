@@ -1,9 +1,15 @@
 {
   "Maps": [
     {
-      "label": "DormRoom",
-      "preview": "Maps/DormRoom/image.png",
-      "blend": "Maps/DormRoom/DormRoom.blend",
+      "label": "^Dodgeball",
+      "preview": "Maps/^Dodgeball/thumbnail.png",
+      "blend": "Maps/^Dodgeball/Dodgeball.blend",
+      "children": []
+    },
+    {
+      "label": "^DormRoom",
+      "preview": "Maps/^DormRoom/thumbnail.png",
+      "blend": "Maps/^DormRoom/DormRoom.blend",
       "children": []
     }
   ]
