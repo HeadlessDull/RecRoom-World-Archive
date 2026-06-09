@@ -1,0 +1,10 @@
+{
+  "Maps": [
+    {
+      "label": "DormRoom",
+      "preview": "Maps/DormRoom/image.png",
+      "blend": "Maps/DormRoom/DormRoom.blend",
+      "children": []
+    }
+  ]
+}
