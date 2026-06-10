@@ -11,6 +11,12 @@
       "preview": "Maps/^DormRoom/thumbnail.png",
       "blend": "Maps/^DormRoom/DormRoom.blend",
       "children": []
+    },
+    {
+      "label": "^PerformanceHall",
+      "preview": "Maps/^PerformanceHall/thumbnail.png",
+      "blend": "Maps/^PerformanceHall/PerformanceHall.blend",
+      "children": []
     }
   ]
 }
