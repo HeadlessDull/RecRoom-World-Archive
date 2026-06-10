@@ -2,19 +2,19 @@
   "Maps": [
     {
       "label": "^Dodgeball",
-      "preview": "Maps/^Dodgeball/thumbnail.png",
+      "preview": "Maps/^Dodgeball/dogeball.png",
       "blend": "Maps/^Dodgeball/Dodgeball.blend",
       "children": []
     },
     {
       "label": "^DormRoom",
-      "preview": "Maps/^DormRoom/thumbnail.png",
+      "preview": "Maps/^DormRoom/dormroom.png",
       "blend": "Maps/^DormRoom/DormRoom.blend",
       "children": []
     },
     {
       "label": "^PerformanceHall",
-      "preview": "Maps/^PerformanceHall/thumbnail.png",
+      "preview": "Maps/^PerformanceHall/preformancehall.png",
       "blend": "Maps/^PerformanceHall/PerformanceHall.blend",
       "children": []
     }
