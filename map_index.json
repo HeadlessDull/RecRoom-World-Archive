@@ -13,6 +13,12 @@
       "children": []
     },
     {
+      "label": "^GoldenTrophy",
+      "preview": "",
+      "blend": "",
+      "children": []
+    },
+    {
       "label": "^PerformanceHall",
       "preview": "Maps/^PerformanceHall/preformancehall.png",
       "blend": "Maps/^PerformanceHall/PerformanceHall.blend",
