@@ -19,6 +19,12 @@
       "children": []
     },
     {
+      "label": "^MakerRoom",
+      "preview": "Maps/^MakerRoom/image.png",
+      "blend": "Maps/^MakerRoom/MakerRoom.blend",
+      "children": []
+    },
+    {
       "label": "^PerformanceHall",
       "preview": "Maps/^PerformanceHall/preformancehall.png",
       "blend": "Maps/^PerformanceHall/PerformanceHall.blend",
