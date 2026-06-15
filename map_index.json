@@ -29,6 +29,12 @@
       "preview": "Maps/^PerformanceHall/preformancehall.png",
       "blend": "Maps/^PerformanceHall/PerformanceHall.blend",
       "children": []
+    },
+    {
+      "label": "^Registration",
+      "preview": "Maps/^Registration/image.png",
+      "blend": "Maps/^Registration/Registration.blend",
+      "children": []
     }
   ]
 }
