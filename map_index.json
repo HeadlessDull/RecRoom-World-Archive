@@ -1,3 +1,47 @@
 {
-
+  "Maps": [
+    {
+      "label": "^Dodgeball",
+      "preview": "Maps/^Dodgeball/dogeball.png",
+      "blend": "Maps/^Dodgeball/Dodgeball.blend",
+      "children": []
+    },
+    {
+      "label": "^DormRoom",
+      "preview": "Maps/^DormRoom/dormroom.png",
+      "blend": "Maps/^DormRoom/DormRoom.blend",
+      "children": []
+    },
+    {
+      "label": "^GoldenTrophy",
+      "preview": "Maps/^GoldenTrophy/Armory.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Armory",
+          "preview": "Maps/^GoldenTrophy/Armory/Armory.png",
+          "blend": "Maps/^GoldenTrophy/Armory/Armory.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "^MakerRoom",
+      "preview": "Maps/^MakerRoom/image.png",
+      "blend": "Maps/^MakerRoom/MakerRoom.blend",
+      "children": []
+    },
+    {
+      "label": "^PerformanceHall",
+      "preview": "Maps/^PerformanceHall/preformancehall.png",
+      "blend": "Maps/^PerformanceHall/PerformanceHall.blend",
+      "children": []
+    },
+    {
+      "label": "^Registration",
+      "preview": "Maps/^Registration/image.png",
+      "blend": "Maps/^Registration/Registration.blend",
+      "children": []
+    }
+  ]
 }
