@@ -26,6 +26,12 @@
       ]
     },
     {
+      "label": "^Lounge",
+      "preview": "Maps/^Lounge/Image.png",
+      "blend": "Maps/^Lounge/Lounge.blend",
+      "children": []
+    },
+    {
       "label": "^MakerRoom",
       "preview": "Maps/^MakerRoom/image.png",
       "blend": "Maps/^MakerRoom/MakerRoom.blend",
