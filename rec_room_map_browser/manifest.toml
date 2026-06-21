@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id             = "rec_room_map_browser"
+name           = "Rec Room Map Browser"
+version        = "1.1.0"
+tagline        = "Browse and append rec room maps"
+maintainer     = "Headless Dull"
+type           = "add-on"
+blender_version_min = "4.2.0"
+
+license        = ["SPDX:GPL-2.0-or-later"]
