@@ -44,6 +44,12 @@
       "children": []
     },
     {
+      "label": "^RecCenter2026",
+      "preview": "Maps/^RecCenter2026/RecCenter2026Cycles.png",
+      "blend": "Maps/^RecCenter2026/RecCenter2026.blend",
+      "children": []
+    },
+    {
       "label": "^Registration",
       "preview": "Maps/^Registration/image.png",
       "blend": "Maps/^Registration/Registration.blend",
